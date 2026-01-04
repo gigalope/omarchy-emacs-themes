@@ -1,4 +1,4 @@
-;;; osaka-jade-theme.el --- Osaka Jade theme for Emacs -*- lexical-binding: t; -*-
+;;; osaka-jade-theme.el --- Osaka Jade theme -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2026 Michael J. Seiter
 
@@ -36,6 +36,11 @@
 ;; https://github.com/gigalope/omarchy-emacs-theme-sync
 
 ;;; Code:
+
+;;;###autoload
+(when (and load-file-name (boundp 'custom-theme-load-path))
+  (add-to-list 'custom-theme-load-path
+               (file-name-as-directory (file-name-directory load-file-name))))
 
 (require 'osaka-jade-theme-core)
 
