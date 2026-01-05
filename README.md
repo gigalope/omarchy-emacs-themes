@@ -62,9 +62,12 @@ You can override specific colors without modifying the theme files:
 
 ## Screenshots
 
-![osaka-jade theme screenshot](screenshots/osaka-jade.png)
+### Ethereal
+![ethereal theme screenshot](screenshots/ethereal.png)
 
-_(Screenshot coming soon)_
+
+### Osaka
+![osaka-jade theme screenshot](screenshots/osaka-jade.png)
 
 ## Credits
 
@@ -88,3 +91,4 @@ Contributions are welcome! If you'd like to:
 - [Omarchy](https://github.com/basecamp/omarchy) - Hyprland-based desktop environment
 - [omarchy-emacs-theme-sync](https://github.com/gigalope/omarchy-emacs-theme-sync) - Automatic Emacs theme switching for Omarchy
 - [Bamboo.nvim](https://github.com/ribru17/bamboo.nvim) - The original Neovim theme that inspired osaka-jade
+- [Ethereal.nvim](https://github.com/bjarneo/ethereal.nvim) - The original Neovim theme that inspired ethereal
