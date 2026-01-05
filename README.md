@@ -5,8 +5,9 @@ Custom Emacs themes designed to complement the [Omarchy](https://github.com/base
 ## Available Themes
 
 - **osaka-jade** - Dark theme with jade tones inspired by [Bamboo.nvim](https://github.com/ribru17/bamboo.nvim) vulgaris variant
+- **ethereal** - Dark theme with deep navy background inspired by [Ethereal](https://github.com/bjarneo/ethereal-vscode) by Bjarne Øverli
 
-_(5 more themes planned: everforest, kanagawa, ethereal, hackerman, matte-black)_
+_(4 more themes planned: everforest, kanagawa, hackerman, matte-black)_
 
 ## Installation
 
@@ -68,6 +69,7 @@ _(Screenshot coming soon)_
 ## Credits
 
 - **osaka-jade** color palette based on [Bamboo.nvim](https://github.com/ribru17/bamboo.nvim) by ribru17
+- **ethereal** color palette based on [Ethereal](https://github.com/bjarneo/ethereal-vscode) and [Ethereal.nvim](https://github.com/bjarneo/ethereal.nvim) by Bjarne Øverli
 - Theme architecture inspired by [modus-themes](https://github.com/protesilaos/modus-themes) by Protesilaos Stavrou
 
 ## License
